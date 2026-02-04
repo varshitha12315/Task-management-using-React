@@ -145,5 +145,4 @@ Focused on building clean, scalable, and responsive web applications.
 This project is part of my internship-focused portfolio to demonstrate front-end development skills.
 
 - GitHub: https://github.com/varshitha12315
-- LinkedIn: https://www.linkedin.com/in/varshitha-i-p-46852b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+- LinkedIn: www.linkedin.com/in/varshitha-i-p
